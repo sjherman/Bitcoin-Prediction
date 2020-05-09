@@ -1,0 +1,29 @@
+The dataset was built using historical data from Yahoo finance. The yfinance Python module was used to scrape the data by ticker symbol.
+For more information on the yfinance Python module, see https://aroussi.com/post/python-yahoo-finance and https://github.com/ranaroussi/yfinance.
+
+The dataset contains 2061 records with the following fields:
+
+BTC-USD		Bitcoin USD
+CL=F		Crude Oil
+EURUSD=X	EUR/USD
+GBPUSD=X	GBP/USD
+GC=F		Gold
+HG=F		Copper
+HO=F		Heating Oil
+JPY=X		USD/JPY
+NG=F		Natural Gas
+PL=F		Platinum
+SI=F		Silver
+ZB=F	 	U.S. Treasury Bond Futures
+ZF=F		Five-Year US Treasury Note Futures
+ZN=F		10-Year T-Note Futures
+ZT=F		2-Year T-Note Futures
+^DJI		Dow 30
+^FTSE		FTSE 100
+^GSPC		S&P 500
+^IXIC		Nasdaq
+^N225		Nikkei 225
+^RUT		Russell 2000
+^TNX		10-Yr Bond
+^VIX		Vix
+
